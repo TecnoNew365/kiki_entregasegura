@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4rem;
+  background-color: rgba(255, 255, 255, 0);
+  backdrop-filter: blur(10px);
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+  z-index: 50;
+}
+
+.header.scrolled {
+  background-color: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+}
+.g-main {
+  @apply bg-gradient-to-bl from-slate-50 via-slate-100 to-white dark:from-slate-700  dark:via-slate-800 dark:to-slate-900;
+}
+.g-secundary {
+  @apply bg-gradient-to-bl from-slate-200 via-slate-300 to-white dark:from-slate-700  dark:via-slate-800 dark:to-slate-900;
+}
+
+/* Buttons */
+.btn-main {
+  @apply flex-none rounded-full bg-gray-900 dark:bg-gray-700 px-3.5 py-2 text-sm font-semibold text-white shadow-sm hover:bg-gray-700 dark:hover:bg-gray-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900;
+}
+
+.badge-primary {
+  @apply  p-0.5 font-medium ;
+}
+
+
+/* Text systems */
+.text {
+  @apply text-gray-700 dark:text-gray-100 font-normal text-base;
+}
+.text-secundary {
+  @apply text-gray-500 dark:text-gray-500 font-normal text-sm;
+}
+
+.text-link {
+  @apply text-sky-500;
+}
+
+.title {
+  @apply text-xl font-medium text-gray-700 dark:text-gray-100;
+}
+.subtitle {
+  @apply text-lg font-normal text-gray-700 dark:text-gray-100;
+}
+.mega-title {
+  @apply text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100;
+}

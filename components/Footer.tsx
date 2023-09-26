@@ -32,7 +32,7 @@ export default function Footer() {
               <span className="font-extrabold">Logo Here</span>
             </Link>
             <p className="text-sm leading-6 text-gray-600">
-              Queremos que sepan que estamos aquí para apoyarles en cada paso del camino. Si tienen alguna pregunta, inquietud o sugerencia, no duden en comunicarse con nuestro equipo de soporte dedicado. Estamos aquí para escucharles y ayudarles a aprovechar al máximo "A&A Reserva".
+              Queremos que sepan que estamos aquí para apoyarles en cada paso del camino. Si tienen alguna pregunta, inquietud o sugerencia, no duden en comunicarse con nuestro equipo de soporte dedicado. Estamos aquí para escucharles y ayudarles a aprovechar al máximo A&A Reserva.
             </p>
             <div className="flex space-x-6">
               {navigation.social.map((item) => (

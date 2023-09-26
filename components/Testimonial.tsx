@@ -3,7 +3,7 @@ export default function Testimonial() {
   return (
     <div className="w-full g-main  h-96 my-24 flex flex-col items-center justify-center gap-8">
       <h2 className="title text-center max-w-4xl">
-        En "Kiki", entendemos la importancia de la convivencia y la calidad en el servicio de entrega.
+        En Kiki, entendemos la importancia de la convivencia y la calidad en el servicio de entrega.
         Nuestra aplicación permite explorar una amplia variedad de restaurantes, tiendas y mercados, y realizar pedidos con faciidad.
         ¡Todo al alcance de tus dedos!
 

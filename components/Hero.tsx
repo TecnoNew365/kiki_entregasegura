@@ -18,7 +18,7 @@ const Hero = () => {
             <p className="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24">
               ¿Te encanta disfrutar de tu comida favorita desde la comodidad de tu hogar? ¿Te gustaría recibir tus
               productos favoritos sin tener que salir de casa?
-              ¡Entonces "Kiki" es la solución perfecta para ti!
+              ¡Entonces Kiki es la solución perfecta para ti!
             </p>
             <div className="mb-4 space-x-0 md:mb-8">
               <a

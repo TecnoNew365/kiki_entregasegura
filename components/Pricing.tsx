@@ -21,7 +21,7 @@ export default function Pricing() {
             ¡Precios flexibles para todos los tamaños de negocio!
           </h2>
           <p className="mt-6 subtitle">
-            Regístrense hoy mismo y descubran cómo "A&A Reserva" puede transformar su negocio.
+            Regístrense hoy mismo y descubran cómo A&A Reserva puede transformar su negocio.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl rounded-3xl ring-1 ring-gray-200 sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">

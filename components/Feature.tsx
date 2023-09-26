@@ -16,7 +16,7 @@ export default function Feature() {
             ¡Características destacadas de Kiki!
           </h2>
           <p className="mt-6 subtitle">
-          ¿Qué nos hace diferentes? En \"Kiki\" nos preocupamos por brindarte la mejor experiencia posible. Hemos seleccionado cuidadosamente a nuestros
+          ¿Qué nos hace diferentes? En Kiki nos preocupamos por brindarte la mejor experiencia posible. Hemos seleccionado cuidadosamente a nuestros
           socios comerciales para garantizar que recibas productos frescos y de alta calidad en cada entrega. Además, nuestro equipo de repartidores
           altamente capacitados se encargará de llevar tus pedidos de manera rápida y segura hasta tu puerta.
           </p>

@@ -16,7 +16,7 @@ export default function Feature() {
             ¡Características destacadas de Kiki!
           </h2>
           <p className="mt-6 subtitle">
-          ¿Qué nos hace diferentes? En "Kiki" nos preocupamos por brindarte la mejor experiencia posible. Hemos seleccionado cuidadosamente a nuestros
+          ¿Qué nos hace diferentes? En \"Kiki\" nos preocupamos por brindarte la mejor experiencia posible. Hemos seleccionado cuidadosamente a nuestros
           socios comerciales para garantizar que recibas productos frescos y de alta calidad en cada entrega. Además, nuestro equipo de repartidores
           altamente capacitados se encargará de llevar tus pedidos de manera rápida y segura hasta tu puerta.
           </p>
@@ -55,8 +55,8 @@ export default function Feature() {
             <div className="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
               <div className="mx-auto max-w-xs px-8">
                 <p className="text-base font-semibold text-gray-600">
-                ¡Descarga "Kiki" ahora y descubre la forma más facil y conveniente de recibir tus productos favoritos en la puerta de tu casa! No pierdas
-                  más tiempo en largas filas y esperas interminables. Con "Kiki", el sabor que amas está a solo unos clics de distancia.
+                ¡Descarga Kiki ahora y descubre la forma más facil y conveniente de recibir tus productos favoritos en la puerta de tu casa! No pierdas
+                  más tiempo en largas filas y esperas interminables. Con Kiki, el sabor que amas está a solo unos clics de distancia.
                 </p>
                 {/* <p className="mt-6 flex items-baseline justify-center gap-x-2">
                   <span className="text-5xl font-bold tracking-tight text-gray-900">
@@ -73,8 +73,8 @@ export default function Feature() {
                   Descargar Ahora
                 </a>
                 {/* <p className="mt-6 text-xs leading-5 text-gray-600">
-                ¡Descarga "Kiki" ahora y descubre la forma más facil y conveniente de recibir tus productos favoritos en la puerta de tu casa! No pierdas
-                  más tiempo en largas filas y esperas interminables. Con "Kiki", el sabor que amas está a solo unos clics de distancia.
+                ¡Descarga Kiki ahora y descubre la forma más facil y conveniente de recibir tus productos favoritos en la puerta de tu casa! No pierdas
+                  más tiempo en largas filas y esperas interminables. Con Kiki, el sabor que amas está a solo unos clics de distancia.
                 </p> */}
               </div>
             </div>

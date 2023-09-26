@@ -1,6 +1,6 @@
 import Faqs from "@/components/Faqs";
 import Hero from "@/components/Hero";
-import Feature from "@/components/Feature";
+import Pricing from "@/components/Pricing";
 
 import Testimonial from "@/components/Testimonial";
 
@@ -13,10 +13,9 @@ export default function Home() {
           <div>
             <Testimonial />
           </div>
-          {/* <div>
+          <div>
             <Pricing />
-          </div> */}
-          <Feature/>
+          </div>
         </div>
       </div>
       <div></div>

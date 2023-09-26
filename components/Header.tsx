@@ -33,7 +33,7 @@ const Header = () => {
 
         <div className="col-span-1 col-start-4 flex space-x-7 justify-end lg:justify-center  pb-4  ">
           <a href={defaults.urlDashboard} className="btn-main">
-            Descargar
+            Get Started
           </a>
           <Sidebar />
         </div>

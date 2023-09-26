@@ -1,8 +1,8 @@
 const defaults = {
-  urlDashboard: "https://localhost/download/",
+  urlDashboard: "https://demodashboardstandard.thesaasfactory.dev/",
   navigation: [
-    { name: "Características", href: "/#feature" },
-    { name: "Preguntas frecuentes", href: "/#faqs" },
+    { name: "Features", href: "/#features" },
+    { name: "Pricing", href: "/#pricing" },
   ],
 };
 

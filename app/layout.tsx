@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Kiki - Entregas Seguras",
   description:
-    "Con A&A Reserva, podrás gestionar de manera eficiente y efectiva tu calendario de citas, permitiendo a tus clientes reservar fácilmente sus turnos a través de nuestra plataforma intuitiva y amigable. Ya sea que administres una clínica médica, salón de belleza, spa o cualquier otro tipo de negocio que requiera programación, nuestro SaaS es la solución perfecta para ti.",
+    "",
 };
 
 export default function RootLayout({
